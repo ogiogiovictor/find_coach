@@ -31,8 +31,6 @@ The Webpage is now deployed using github pages. See url link below:
 -Twitter: [Ogiogio Victor](https://twitter.com/a0df623fb9d9482)
 -LinkedIn:  [Ogiogio Victor](https://www.linkedin.com/in/ogiogio-victor-a096a0181/)
 
-- GitHub: [@ulisesedu7](https://github.com/ulisesedu7)
-
 # 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
