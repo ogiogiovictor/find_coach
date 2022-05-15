@@ -23,7 +23,7 @@ To get a local copy up and running follw these simple example steps:
 
 # Website URL - Github Pages
 The Webpage is now deployed using github pages. See url link below:
-[live demo]( https://github.com/ogiogiovictor/find_coach.git)
+[live demo](https://find-coach-43d96.web.app)
 
 
 # Authors
