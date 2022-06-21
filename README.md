@@ -3,7 +3,7 @@ Find Coach
 A Coach Finder Project with Authentication
 
 # About Project
-The project is a find coach project with modern vue structure. Its built to with authentication and vuex
+The project is a platform where student can find coach and checkout their reviews built with a Vue, Vuex and solid authentication with firebase.
 
 # Built With 
 - HTML
