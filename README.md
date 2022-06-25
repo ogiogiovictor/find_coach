@@ -1,9 +1,6 @@
 # Microverse_Hello_Project
-Find Coach
-A Coach Finder Project with Authentication
-
-# About Project
-The project is a platform where student can find coach and checkout their reviews built with a Vue, Vuex and solid authentication with firebase.
+Coach Finder
+The project is a platform where student can find coach and checkout their reviews. They can also send request to the coach and schedule appointment. Its built with a Vue, Vuex and solid authentication with firebase.
 
 # Built With 
 - HTML
